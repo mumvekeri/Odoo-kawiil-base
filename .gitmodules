@@ -1,0 +1,4 @@
+[submodule "kawiil_base"]
+	path = kawiil_base
+	url = https://github.com/odoo-trainings/kawiil_base.git
+	branch = 19.0
